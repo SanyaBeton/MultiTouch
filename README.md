@@ -1,1 +1,1 @@
-# MultiTouch
+# Aplikacje Mobilne Odczyt zdarzeń dotknięcia
